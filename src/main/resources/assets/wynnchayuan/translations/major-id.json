@@ -34,27 +34,27 @@
   },
   "Battlefield Brilliance": {
    "src": "Battlefield Brilliance",
-   "dst": "戰地英才",
+   "dst": "",
    "role": "name"
   },
   "Blazing Effigy": {
    "src": "Blazing Effigy",
-   "dst": "熾熱雕像",
+   "dst": "",
    "role": "name"
   },
   "Blinding Lights": {
    "src": "Blinding Lights",
-   "dst": "眩目之光",
+   "dst": "",
    "role": "name"
   },
   "Bound by Blood": {
    "src": "Bound by Blood",
-   "dst": "鮮血契約",
+   "dst": "",
    "role": "name"
   },
   "Brachiate": {
    "src": "Brachiate",
-   "dst": "攀枝",
+   "dst": "",
    "role": "name"
   },
   "Brutal Blow": {
@@ -169,7 +169,7 @@
   },
   "Enlightenment": {
    "src": "Enlightenment",
-   "dst": "悟道",
+   "dst": "",
    "role": "name"
   },
   "Entropy": {
@@ -419,7 +419,7 @@
   },
   "Lightweight": {
    "src": "Lightweight",
-   "dst": "",
+   "dst": "輕盈",
    "role": "name"
   },
   "Lit Fuse": {
@@ -434,7 +434,7 @@
   },
   "Lockdown": {
    "src": "Lockdown",
-   "dst": "",
+   "dst": "鎖定目標",
    "role": "name"
   },
   "Lunge": {
@@ -469,7 +469,7 @@
   },
   "Manic Edge": {
    "src": "Manic Edge",
-   "dst": "狂暴利刃",
+   "dst": "",
    "role": "name"
   },
   "Meteor Crash": {
@@ -579,7 +579,7 @@
   },
   "Pounce": {
    "src": "Pounce",
-   "dst": "猛撲",
+   "dst": "",
    "role": "name"
   },
   "Power Fist": {
@@ -614,7 +614,7 @@
   },
   "Requiem": {
    "src": "Requiem",
-   "dst": "",
+   "dst": "安魂曲",
    "role": "name"
   },
   "River of Souls": {
@@ -639,7 +639,7 @@
   },
   "Saviour's Sacrifice": {
    "src": "Saviour's Sacrifice",
-   "dst": "救世者的犧牲",
+   "dst": "",
    "role": "name"
   },
   "Scarce Comfort": {
@@ -764,7 +764,7 @@
   },
   "Transcendence": {
    "src": "Transcendence",
-   "dst": "超凡境界",
+   "dst": "",
    "role": "name"
   },
   "Troll Barge": {
@@ -814,19 +814,19 @@
   },
   "aa75ab3306fa": {
    "src": "{~} chance for spells and attacks to cast a second time at no additional cost.",
-   "dst": "{~} 機率使你的技能與攻擊無消耗再次施放一次。",
+   "dst": "",
    "role": "desc",
    "_raw": "25% chance for spells and attacks to cast a second time at no additional cost."
   },
   "ef2ba3b24865": {
    "src": "{~} chance for spells to cost no mana and instead refund {~} of their original cost.",
-   "dst": "{~} 機率使你的技能無消耗再次施放一次，並將返還 {~} 原本技能所需的魔力消耗。",
+   "dst": "",
    "role": "desc",
    "_raw": "25% chance for spells to cost no mana and instead refund 25% of their original cost."
   },
   "0dba3db5f584": {
    "src": "{~} chance for spells to cost no mana when casted.",
-   "dst": "{~} 機率使你的技能無消耗施放一次。",
+   "dst": "",
    "role": "desc",
    "_raw": "25% chance for spells to cost no mana when casted."
   },
@@ -843,7 +843,7 @@
   },
   "c45569584931": {
    "src": "All Ophanim orbs deal {~} damage, gain +{~} Crystallize per hit, and instead orbit around you. Using Main Attack causes all orbs to travel faster.",
-   "dst": "所有的 Ophanim orbs 造成 {~} 傷害，每顆光球每次造成的 Crystallize 增加 +{~}層數，並改為環繞你運行。使用普通攻擊時，所有光球的移動速度都會加快 ",
+   "dst": "",
    "role": "desc",
    "_raw": "All Ophanim orbs deal 250% damage, gain +5 Crystallize per hit, and instead orbit around you. Using Main Attack causes all orbs to travel faster."
   },
@@ -1035,7 +1035,7 @@
   },
   "999a67f1b56a": {
    "src": "Chain Lightning hits slower, rebounds, adds {~} chains, and pulls mobs closer for a {#}{~} explosion spell.",
-   "dst": "連鎖閃電 變得更強且更慢，增加到 {~} 條鎖鏈，並聚集怪物，隨後造成 {#}{~} 爆炸傷害。",
+   "dst": "連鎖閃電 變得更強且更慢，增加到 {~} 條鎖鏈，並聚集怪物，隨後造成 {#}{~} 爆炸傷害",
    "role": "desc",
    "_raw": "Chain Lightning hits slower, rebounds, adds 6 chains, and pulls mobs closer for a {#}9999% explosion spell."
   },
@@ -1128,7 +1128,7 @@
   },
   "Pounce::desc": {
    "src": "Escape becomes a forward lunge.",
-   "dst": "Escape變成向前突進",
+   "dst": "",
    "role": "desc"
   },
   "Elven Current::desc": {
@@ -1222,7 +1222,7 @@
   },
   "6cf517e771cb": {
    "src": "Grappling Hook has {~} increased range and increased velocity.",
-   "dst": "Grappling Hook 的射程提高 {~}，並提升其飛行速度。",
+   "dst": "",
    "role": "desc",
    "_raw": "Grappling Hook has 25% increased range and increased velocity."
   },
@@ -1363,7 +1363,7 @@
   },
   "Lockdown::desc": {
    "src": "Meteor will snap onto a target in range, regardless of aim.",
-   "dst": "",
+   "dst": "隕石會自動鎖定射程內的目標，且不須瞄準",
    "role": "desc"
   },
   "ee126496c5e3": {
@@ -1524,7 +1524,7 @@
   },
   "Bound by Blood::desc": {
    "src": "Shadow Projection's teleport range, duration, and launch strength is doubled.",
-   "dst": "Shadow Projection 的傳送距離、持續時間與彈射力加倍",
+   "dst": "",
    "role": "desc"
   },
   "8986e6b68a5d": {
@@ -1551,7 +1551,7 @@
   },
   "Requiem::desc": {
    "src": "Sunflare regenerates twice the health and mana.",
-   "dst": "",
+   "dst": "太陽閃焰回復雙倍生命值和魔力",
    "role": "desc"
   },
   "2602ed5b2353": {
@@ -1671,13 +1671,13 @@
   },
   "919fb4a40f15": {
    "src": "While under {~} maximum health, allies within {~} blocks gain {~} bonus damage and defence.",
-   "dst": "當你的最大生命值降至 {~} 以下，周圍 {~} 的友軍將會獲得 {~} 傷害加成與防禦",
+   "dst": "",
    "role": "desc",
    "_raw": "While under 50% maximum health, allies within 8 blocks gain 15% bonus damage and defence."
   },
   "c3bf974c3358": {
    "src": "While vanished, lose {~} of your max mana per second. Surprise Strike further increases your damage by {~} per mana lost from this effect, up to {~}.",
-   "dst": "當你在隱身期間，每秒消耗 {~} 最大魔力，\n此效果每消耗 1 點魔力，你的 Surprise Strike 提升 {~} 傷害，上限為 {~}",
+   "dst": "",
    "role": "desc",
    "_raw": "While vanished, lose 5% of your max mana per second. Surprise Strike further increases your damage by 3% per mana lost from this effect, up to 70%."
   },
@@ -1700,12 +1700,12 @@
   },
   "Lightweight::desc": {
    "src": "You no longer take fall damage.",
-   "dst": "",
+   "dst": "你不會受到墜落傷害",
    "role": "desc"
   },
   "b00ff32e8e03": {
    "src": "Your Maximum Health is reduced by {~}. For every {~} HP lost, Sacred Surge's damage is increased by {~}.",
-   "dst": "你的最大生命上限削減 {~} ，每被削減 {~} 點生命值，Sacred Surge 的傷害增加 {~}。",
+   "dst": "你的最大生命上限削減 {~} ，每被削減 {~} 點生命值，Sacred Surge 的傷害增加 {~}",
    "role": "desc",
    "_raw": "Your Maximum Health is reduced by 75%. For every 100 HP lost, Sacred Surge's damage is increased by 3%."
   },
